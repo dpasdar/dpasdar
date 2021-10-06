@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dpasdar/dpasdar/blob/master/devcard.svg" width="400" alt="David Pasdar's Dev Card"/></a>
 
 <!--
 **dpasdar/dpasdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
