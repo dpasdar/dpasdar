@@ -1,6 +1,6 @@
 > “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 <br>
-<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="400" alt="David Pasdar's Dev Card"/></a>
+
 
 <!--
 **dpasdar/dpasdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
